@@ -9,10 +9,10 @@
     "pages/chooseLib/chooseLib"
   ],
   "window": {
-    "backgroundColor": "#F6F6F6",
+    "backgroundColor": "#fff",
     "backgroundTextStyle": "light",
-    "navigationBarBackgroundColor": "#F6F6F6",
-    "navigationBarTitleText": "云开发 QuickStart",
+    "navigationBarBackgroundColor": "#fff",
+    "navigationBarTitleText": "vv留言板",
     "navigationBarTextStyle": "black"
   }
 }

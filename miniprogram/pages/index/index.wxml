@@ -20,6 +20,12 @@
     <view class="uploader-text" bindtap="doUpload">
       <text>上传图片</text>
     </view>
+    <view>
+      <view style='color:#d81e06'>
+        <icon class="iconfont icon-like-filled"></icon>
+      </view>
+      <icon class="iconfont icon-like-outline"></icon>
+    </view>
     <view class="uploader-container" wx:if="{{imgUrl}}">
       <image class="uploader-image" src="{{imgUrl}}" mode="aspectFit" bindtap="previewImg"></image>
     </view>
